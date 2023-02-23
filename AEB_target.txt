@@ -1,2 +1,2 @@
 target_parameter() {//fonction OK}
-wait(500ms)
+wait(750ms)
